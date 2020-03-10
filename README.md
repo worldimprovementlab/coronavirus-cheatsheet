@@ -22,6 +22,7 @@ References:
 
 ## Useful Links
 
-- [Staying Home Club](https://stayinghome.club/)
+- [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/) - A collection of Open Source projects during COVID-19.
+- [Staying Home Club](https://stayinghome.club/) - A list of companies and events who have instituted work from home policies. This project heavily inspired the **Coronavirus Cheatsheet**.
 
 _This will be seperated by categories as the information grows._
