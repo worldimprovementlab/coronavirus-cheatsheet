@@ -52,4 +52,11 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 ## Other Contributions
 
-- The initial version of this cheatsheet borrowed heavily from https://github.com/phildini/stayinghomeclub (thanks [@phildini](https://github.com/phildini)!)
+- The initial version of this cheatsheet borrowed heavily from https://github.com/phildini/stayinghomeclub (thanks [@phildini](https://github.com/phildini))
+
+## Similar Resources
+
+Are you maintaining a cheatsheet or list similar to this? Add it here so we can learn/borrow from each other:
+
+* [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) by [@soroushchehresa](https://github.com/soroushchehresa/awesome-coronavirus)
+* [awesome-coronavirus](https://github.com/ThomasThelen/awesome-coronavirus) by [@ThomasThelen](https://github.com/ThomasThelen)
