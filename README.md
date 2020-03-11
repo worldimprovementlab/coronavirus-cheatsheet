@@ -23,20 +23,24 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 ## Contribute to Open-Source Efforts
 
-- [Open-Source-COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/world) - A global collection of open-source projects relating to COVID-19.
+- [Open-Source-COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/world) - Global collection of open-source projects relating to COVID-19.
 
 ## Work From Home
 
-- [Staying Home Club](https://stayinghome.club/) - A list of companies and events who have instituted work-from-home (WFH) policies.
+- [Staying Home Club](https://stayinghome.club/) - List of companies that have instituted work-from-home (WFH) policies
+
+## Cancel All Gatherings and Events
+
+- [Staying Home Club](https://stayinghome.club/) - List of cancelled conferences
+- [Academic Conferences Cancelled or Postponed due to COVID-19 Caution](https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#)
 
 ## Resources for Employers
 
 - [An Employer's Guide to Navigating the Coronavirus](https://gusto.com/blog/people-management/coronavirus-employers-guide) by Gusto
 
-## Resources for Universities and Academic Conferences
+## Resources for Universities
 
 - [List of University Policies for COVID-19](https://docs.google.com/spreadsheets/d/1BsS1-2RQvgONdUviUJq1TbSqMmoBhbXPiwTIr__pRns/edit#gid=1979093867)
-- [Academic Conferences Cancelled or Postponed due to COVID-19 Caution](https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#)
 
 # Credits
 
