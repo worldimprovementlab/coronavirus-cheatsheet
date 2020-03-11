@@ -42,6 +42,14 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 - [List of University Policies for COVID-19](https://docs.google.com/spreadsheets/d/1BsS1-2RQvgONdUviUJq1TbSqMmoBhbXPiwTIr__pRns/edit#gid=1979093867)
 
+## Resources for Doctors
+
+- [Coronavirus Tech Handbook's Resources for Doctors](https://coronavirustechhandbook.com/doctors)
+
+## Resources for Tech People
+
+- [Coronavirus Tech Handbook](https://coronavirustechhandbook.com) - A crowdsourced resource for technologists building things related to the outbreak
+
 # Credits
 
 ## Maintainers
