@@ -31,7 +31,7 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 ## Cancel All Gatherings and Events
 
-- [Staying Home Club](https://stayinghome.club/) - List of cancelled conferences
+- [Staying Home Club](https://stayinghome.club/) - List of cancelled professional/tech conferences
 - [Academic Conferences Cancelled or Postponed due to COVID-19 Caution](https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#)
 
 ## Resources for Employers
