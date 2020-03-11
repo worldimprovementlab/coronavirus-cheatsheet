@@ -21,7 +21,7 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 ## Contribute to Open-Source Efforts
 
-- [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/) - A collection of open-source projects relating to COVID-19.
+- [Open-Source-COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/world) - A global collection of open-source projects relating to COVID-19.
 
 ## Work From Home
 
