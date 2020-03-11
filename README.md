@@ -14,6 +14,7 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 - https://en.wikipedia.org/wiki/Coronavirus_disease_2019
 - [Flatten the Curve](https://www.flattenthecurve.com/)
+- [JHS Center for Health Security Situation Reports](http://www.centerforhealthsecurity.org/resources/COVID-19/index.html)
 
 ## Browse Published Data
 
@@ -34,6 +35,7 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 ## Resources for Universities and Academic Conferences
 
+- [List of University Policies for COVID-19](https://docs.google.com/spreadsheets/d/1BsS1-2RQvgONdUviUJq1TbSqMmoBhbXPiwTIr__pRns/edit#gid=1979093867)
 - [Academic Conferences Cancelled or Postponed due to COVID-19 Caution](https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#)
 
 # Credits
