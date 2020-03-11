@@ -17,6 +17,7 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 ## Browse Published Data
 
+- [Live Map of Global COVID-19 Cases](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - by CSSE at Johns Hopkins
 - [covid-19-datasette](https://covid-19.datasettes.com/covid/daily_reports) - Published data on COVID-19 cases based off [Johns Hopkins Data](https://github.com/CSSEGISandData/COVID-19).
 
 ## Contribute to Open-Source Efforts
