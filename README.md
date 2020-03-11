@@ -32,6 +32,10 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 - [An Employer's Guide to Navigating the Coronavirus](https://gusto.com/blog/people-management/coronavirus-employers-guide) by Gusto
 
+## Resources for Universities and Academic Conferences
+
+- [Academic Conferences Cancelled or Postponed due to COVID-19 Caution](https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#)
+
 # Credits
 
 ## Maintainers
