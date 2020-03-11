@@ -1,6 +1,10 @@
 # Coronavirus Cheatsheet
 
-The **Coronavirus Cheatsheet** is a science-based fact sheet, currently focusing on the COVID-19 outbreak. In the interest of serving the widest audience it is non-partisan resource. To that end, the information in this cheatsheet is based on facts and not personal beliefs or political views. Because COVID-19 data and resources are evolving, information in this sheet will change and grow.
+The **Coronavirus Cheatsheet** is a science-based fact sheet, currently focusing on the COVID-19 outbreak.
+
+To serve the widest audience, it is a non-partisan resource. The information in this cheatsheet is based on facts and not personal beliefs or political views. Contributions must follow [Wikipedia's Neutral Point of View](https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view) guidelines.
+
+Because COVID-19 data and resources are evolving, information in this sheet will change and grow.
 
 ## What Is COVID-19?
 
