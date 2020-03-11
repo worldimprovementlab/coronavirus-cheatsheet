@@ -8,7 +8,7 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 ## Statistics
 
-- (covid-19-datasette)[https://covid-19.datasettes.com/covid/daily_reports] - Published data on COVID-19 cases based off [Johns Hopkins Data](https://github.com/CSSEGISandData/COVID-19).
+- [covid-19-datasette](https://covid-19.datasettes.com/covid/daily_reports) - Published data on COVID-19 cases based off [Johns Hopkins Data](https://github.com/CSSEGISandData/COVID-19).
 
 ## Explaining COVID-19
 
