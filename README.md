@@ -30,6 +30,7 @@ Case fatality rate is estimated at between 1% and 5%.
 ## Contribute to Open-Source Efforts
 
 - [Open-Source-COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/world) - Global collection of open-source projects relating to COVID-19.
+- [soroushchehresa's awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Has a detailed list of open-source COVID-19 projects
 
 ## Work From Home
 
