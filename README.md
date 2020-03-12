@@ -17,7 +17,8 @@ Case fatality rate is estimated at between 1% and 5%.
 
 ## Educate Yourself
 
-- https://en.wikipedia.org/wiki/Coronavirus_disease_2019
+- [Wikipedia *Coronavirus_disease_2019*](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
+- [Harvard Medical School Coronavirus Resource Center](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center)
 - [Flatten the Curve](https://www.flattenthecurve.com/)
 - [JHS Center for Health Security Situation Reports](http://www.centerforhealthsecurity.org/resources/COVID-19/index.html)
 
