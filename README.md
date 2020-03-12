@@ -8,12 +8,12 @@ Contributions must follow [Wikipedia's Neutral Point of View](https://en.wikiped
 
 Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus, a virus closely related to the SARS virus. The disease first emerged in Wuhan, China.
 
-## Symptoms
+## Symptoms (from [Wikipedia](https://en.wikipedia.org/wiki/Coronavirus_disease_2019))
 
-Common: fever, dry cough, fatigue, and shortness of breath
-Less common: sore throat, runny nose, sneezing
+* Common: fever, dry cough, fatigue, and shortness of breath
+* Less common: sore throat, runny nose, sneezing, diarrhea. Can progress to pneumonia and multi-organ failure. 
 
-While the majority of cases result in mild symptoms, some can progress to pneumonia and multi-organ failure. The case fatality rate is estimated at between 1% and 5%. - [Wikipedia](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
+Case fatality rate is estimated at between 1% and 5%. 
 
 ## Educate Yourself
 
