@@ -50,7 +50,7 @@ Case fatality rate is estimated at between 1% and 5%.
 - [List of University Policies for COVID-19](https://docs.google.com/spreadsheets/d/1BsS1-2RQvgONdUviUJq1TbSqMmoBhbXPiwTIr__pRns/edit#gid=1979093867)
 - [Remote Teaching Resources for Continuity](https://docs.google.com/spreadsheets/d/1VT9oiNYPyiEsGHBoDKlwLlWAsWP58sGV7A3oIuEUG3k/htmlview?usp=sharing&sle=true) - List of "Academic Continuity" pages on university websites
 
-## Resources for Doctors
+## Resources for Doctors and Healthcare Professionals
 
 - [Coronavirus Tech Handbook's Resources for Doctors](https://coronavirustechhandbook.com/doctors)
 
