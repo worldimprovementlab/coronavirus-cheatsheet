@@ -65,7 +65,7 @@ Case fatality rate is estimated at between 1% and 5%.
 - [Daniel RoyGreenfeld](https://github.com/pydanny)
 - [Derrick Kearney](https://github.com/diek)
 - [Audrey RoyGreenfeld](https://github.com/audreyr)
-- [Henry Jensen] (https://github.com/henryjensen44)
+- [Henry Jensen](https://github.com/henryjensen44)
 
 ## Other Contributions
 
