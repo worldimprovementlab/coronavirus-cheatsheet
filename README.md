@@ -41,6 +41,10 @@ Case fatality rate is estimated at between 1% and 5%.
 - [Staying Home Club](https://stayinghome.club/) - List of cancelled professional/tech conferences
 - [Academic Conferences Cancelled or Postponed due to COVID-19 Caution](https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#)
 
+## Practice Social Distancing
+
+- [Technology Review's How to Practice Social Distancing](https://www.technologyreview.com/s/615355/coronavirus-social-distancing-during-pandemic/)
+
 ## Resources for Employers
 
 - [An Employer's Guide to Navigating the Coronavirus](https://gusto.com/blog/people-management/coronavirus-employers-guide) by Gusto
