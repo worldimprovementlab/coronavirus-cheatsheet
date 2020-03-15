@@ -43,3 +43,11 @@ readme_index:
   enabled:          true
   remove_originals: false
   with_frontmatter: false
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"  
