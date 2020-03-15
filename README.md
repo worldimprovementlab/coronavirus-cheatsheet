@@ -1,4 +1,4 @@
-# Coronavirus Cheatsheet
+# What is Coronavirus Cheatsheet?
 
 Curated resources about the COVID-19 outbreak, organized for quick access.
 
@@ -25,7 +25,9 @@ Case fatality rate is estimated at between 1% and 5%.
 ## Browse Published Data
 
 - [Live Map of Global COVID-19 Cases](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - by CSSE at Johns Hopkins
-- [covid-19-datasette](https://covid-19.datasettes.com/covid/daily_reports) - Published data on COVID-19 cases based off [Johns Hopkins Data](https://github.com/CSSEGISandData/COVID-19).
+- [covid-19-datasette](https://covid-19.datasettes.com/covid/daily_reports) - Published data on COVID-19 cases based off [Johns Hopkins Data](https://github.com/CSSEGISandData/COVID-19)
+- [Coronavirus Pandemic: Real Time Counter, World Map, News](https://www.youtube.com/watch?v=qgylp3Td1Bw) - Youtube channel on breaking news, world map and live counter on confirmed cases, recovered cases(COVID-19).
+
 
 ## Contribute to Open-Source Efforts
 
