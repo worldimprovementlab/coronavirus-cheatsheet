@@ -27,7 +27,7 @@ github_username:  worldimprovementlab
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-readme-index
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -40,3 +40,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
