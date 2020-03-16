@@ -22,6 +22,7 @@ Case fatality rate is estimated at between 1% and 5%.
 - [Flatten the Curve](https://www.flattenthecurve.com/)
 - [JHS Center for Health Security Situation Reports](http://www.centerforhealthsecurity.org/resources/COVID-19/index.html)
 - [WHO COVID-19 advice for the public: Myth busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters) - Debunking myths about transmission and prevention
+- [How to fight the coronavirus SARS-CoV-2 and its disease, CoVID-19](https://drive.google.com/file/d/1DqfSnlaW6N3GBc5YKyBOCGPfdqOsqk1G/view) - Slide deck by Michael Lin, PhD-MD of Stanford's Lin Lab
 
 ## Browse Published Data
 
