@@ -66,9 +66,9 @@ Case fatality rate is estimated at between 1% and 5%.
 
 - [Coronavirus Tech Handbook](https://coronavirustechhandbook.com) - A crowdsourced resource for technologists building things related to the outbreak
 
-# Contribute to this Page
+# Contribute to this Site
 
-You can contribute data at the [Coronavirus Cheatsheet GitHub repo](https://github.com/worldimprovementlab/coronavirus-cheatsheet).
+You can contribute data at the [Coronavirus Cheatsheet GitHub project](https://github.com/worldimprovementlab/coronavirus-cheatsheet) on GitHub.
 
 # Credits
 
